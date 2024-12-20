@@ -6,4 +6,4 @@
 - 😄 Pronouns: mathematician
 - ⚡ Fun fact: The sine topology curve has only one connected component but two path-connected component
 
-If you want to see math, just see this profile
+
