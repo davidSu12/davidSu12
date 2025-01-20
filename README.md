@@ -1,7 +1,13 @@
 <h1> 👋 Hi, I’m @davidSu12</h1>
-- 👀 I’m interested in mathematics<br>
-- 🌱 I’m currently learning mathematics<br>
-- 💞️ I’m looking to collaborate on mathematics<br>
+
+<h3>About me...</h3>
+- I’m interested in mathematics<br>
+- I’m currently learning mathematics<br>
+
+<em>- I just wanna do math -.-</em>
+
+
+
 
 <hr>
 <h3>Contact:</h3><p>david.suarez0501@gmail.com</p>
