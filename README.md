@@ -10,9 +10,7 @@
 
 
 
-<hr>
-<h3>Contact:</h3><p>david.suarez0501@gmail.com</p>
-<br>
+
 <strong><em>Technologies...</em></strong>
 <hr>
 
